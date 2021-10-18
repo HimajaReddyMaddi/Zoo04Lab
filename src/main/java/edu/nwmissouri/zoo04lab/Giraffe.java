@@ -52,7 +52,7 @@ public class Giraffe extends Animal {
      * @return double sum
      */
     public double getGiraffeMultiplication(double leg1, int leg2) {
-        return leg1 + leg2;
+        return leg1 * leg2;
     }
 
     public static void main(String[] args) {
